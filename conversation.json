@@ -1,0 +1,106 @@
+{
+    "intents": [
+        {
+            "tag": "ucapan_awal",
+            "input": [
+                "selamat",
+                "halo",
+                "hai"
+            ],
+            "responses": [
+                "Halo, Salam kenal saya adalah Prabu, Bot pelayanan BPS yang dapat membantu anda mendapatkan informasi seputar BPS Bondowoso",
+                "Hai, Salam kenal saya adalah Prabu, Robot Chat pelayanan BPS yang dapat membantu anda mendapatkan informasi seputar BPS Bondowoso"
+            ]
+        },
+        {
+            "tag": "ucapan_pagi",
+            "input": [
+                "selamat pagi",
+                "pagi"
+            ],
+            "responses": [
+                "Pagi, Saya adalah Prabu, BOT pelayanan BPS yang dapat membantu anda memperolwh informasi seputar BPS Bondowoso"
+            ]
+        },
+        {
+            "tag": "ucapan_siang",
+            "input": [
+                "selamat siang",
+                "siang"
+            ],
+            "responses": [
+                "Siang, Saya adalah Prabu, BOT pelayanan BPS yang dapat membantu anda memperoleh informasi seputar BPS Bondowoso"
+            ]
+        },
+        {
+            "tag": "ucapan_malam",
+            "input": [
+                "selamat malam",
+                "malam"
+            ],
+            "responses": [
+                "Malam, Saya adalah Prabu, BOT pelayanan BPS yang dapat membantu anda memperoleh informasi seputar BPS Bondowoso"
+            ]
+        },
+        {
+            "tag": "deskripsi_bot",
+            "input": [
+                "siapa kamu",
+                "apa kamu"
+            ],
+            "responses": [
+                "Saya adalah Prabu, BOT pelayanan BPS yang dapat membantu anda memperoleh informasi seputar BPS Bondowoso"
+            ]
+        },
+        {
+            "tag": "fungsi_bot",
+            "input": [
+                "apa itu Prabu",
+                "apa fungsi Prabu",
+                "Prabu"
+            ],
+            "responses": [
+                "Prabu adalah layanan chat BOT dari BPS Bondowoso yang dapat membantu anda dalam mencari informasi seputar BPS BOndowoso",
+                "Fungsi dari Prabu adalah untuk membantu para pengunjung BPS Bondowoso untuk mendapatkan informasi terkain BPS Bondowoso"
+            ]
+        },
+        {
+            "tag": "alamat",
+            "input": [
+                "dimana lokasi bps Bondowoso",
+                "lokasi bps bondowoso",
+                "lokasi"
+            ],
+            "responses": [
+                "BPS Bondowoso berlokasi di, Jl. Santawi, Nangkaan Timur, Nangkaan, Kec. Bondowoso, Kabupaten Bondowoso, Jawa Timur 68215",
+                "Berikut merupakan alamat BPS Bondowoso, https://www.google.com/maps/place/Badan+Pusat+Statistik+(+BPS+)+Kabupaten+Bondowoso/@-7.9299249,113.8165723,15z/data=!4m5!3m4!1s0x0:0x56bc1a4bfcca2ce3!8m2!3d-7.9299249!4d113.8165723"
+            ]
+        },
+        {
+            "tag": "operasional",
+            "input": [
+                "jam berapa bps buka?",
+                "jam operasional bps?",
+                "buka jam berapa?",
+                "jam berapa buka?"
+            ],
+            "responses": [
+                "BPS Bondowoso buka dari senin sampai jum'at dari pukul 07:00-16:30"
+            ]
+        },
+        {
+            "tag": "goodbye",
+            "input": [
+                "goodbye",
+                "bye",
+                "terimakasih",
+                "selamat tinggal"
+            ],
+            "responses": [
+                "semoga bisa bertemu lagi",
+                "terima kasih telah menggunakan layanan kami",
+                "Terimakasih sampai jumpa di BPS Bondowoso"
+            ]
+        }
+    ]
+}
