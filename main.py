@@ -17,7 +17,7 @@ from keras.models import load_model
 import numpy as np
 
 
-updater = Updater("5467511072:AAGHhUbO0WCVUCVFduI7QRtUXfME_kQI9X0",
+updater = Updater("THIS_TOKEN",
                   use_context=True)
 
 with open('conversation.json') as content:
